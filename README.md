@@ -1,14 +1,18 @@
-# Hi, I'm Anna.
+# Hi!
+![](https://media2.giphy.com/media/aTf4PONtSYB1e/giphy.gif?cid=ecf05e47w92jeyo25svp04jpl70ppmtmf04rc8khwytz6tm7&rid=giphy.gif&ct=g)
 
-- 👀 I’m interested in full-stack web design and 3D Media.
-- 🌱 I’m currently learning React and Visual Effects (VFX).
-- 📫 Reach me by email: teesannalv@gmail.com
+I do full-stack web design and create 3D computer graphics.
+In my free time I'm either learning visual effects (VFX) or front-end web development.
 
-## Find me on the web
+## TECH STACK
+HTML, CSS, SCSS, JS, React, GatsbyJS, GraphQL, WordPress.
 
-[LinkedIn](https://www.linkedin.com/in/annacgfx/)
-[Behance](https://www.behance.net/annacgfx)
-[Dribbble](https://dribbble.com/annacgfx)
-[Artstation](https://www.artstation.com/annaozola)
-[Instagram](https://www.instagram.com/annacgfx/)
-[Vimeo](https://vimeo.com/annacgfx)
+## SOFTWARE
+Figma, Adobe Xd, Photoshop, Illustrator, After Effects, Premiere, InDesign, Lightroom, Substance 3D Painter, Substance 3D Designer, Substance 3D Sampler MagicaVoxel, Spline, Blender, Houdini, Nuke, Unity, SpeedTree.
+
+## PORTFOLIO
+[NOT PUBLIC YET](https://github.com/c4pslock)
+
+## FIND ME ON THE WEB
+
+[LinkedIn](https://www.linkedin.com/in/annacgfx/) | [Behance](https://www.behance.net/annacgfx) | [Dribbble](https://dribbble.com/annacgfx) | [Artstation](https://www.artstation.com/annaozola) | [Instagram](https://www.instagram.com/annacgfx/) | [Vimeo](https://vimeo.com/annacgfx)
