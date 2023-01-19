@@ -1,7 +1,7 @@
 # Hi!
 ![](https://media2.giphy.com/media/aTf4PONtSYB1e/giphy.gif?cid=ecf05e47w92jeyo25svp04jpl70ppmtmf04rc8khwytz6tm7&rid=giphy.gif&ct=g)
 
-I do full-stack web design and create 3D computer graphics.
+I do digital design, front-end development and create 3D computer graphics.
 In my free time I'm either learning visual effects (VFX) or front-end web development.
 
 ## TECH STACK
