@@ -8,7 +8,7 @@ In my free time I'm either learning visual effects, expanding my design knowledg
 HTML, CSS, SCSS, JS, React, GatsbyJS, GraphQL, Framer Motion, WordPress.
 
 ## SOFTWARE
-Figma, Adobe Xd, Photoshop, Illustrator, After Effects, Premiere, InDesign, Lightroom, Substance 3D Painter, Substance 3D Designer, Substance 3D Sampler MagicaVoxel, Spline, Blender, Houdini, Nuke, Unity, SpeedTree.
+Figma, Adobe Xd, Photoshop, Illustrator, After Effects, Premiere, InDesign, Lightroom, Substance 3D Painter, Substance 3D Designer, Substance 3D Sampler, MagicaVoxel, Spline, Blender, Houdini, Nuke, Unity, SpeedTree.
 
 ## PORTFOLIO
 [NOT PUBLIC YET](https://github.com/c4pslock)
