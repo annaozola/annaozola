@@ -2,7 +2,7 @@
 ![](https://media2.giphy.com/media/aTf4PONtSYB1e/giphy.gif?cid=ecf05e47w92jeyo25svp04jpl70ppmtmf04rc8khwytz6tm7&rid=giphy.gif&ct=g)
 
 I do digital design, front-end development and create 3D computer graphics.
-In my free time I'm either learning visual effects or working or passion projects.
+In my free time I'm either learning visual effects, expanding my design knowledge or working on projects.
 
 ## TECH STACK
 HTML, CSS, SCSS, JS, React, GatsbyJS, GraphQL, Framer Motion, WordPress.
