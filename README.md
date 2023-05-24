@@ -11,7 +11,7 @@ HTML, CSS, SCSS, JS, React, GatsbyJS, GraphQL, Framer Motion, WordPress.
 Figma, Adobe Xd, Photoshop, Illustrator, After Effects, Premiere, InDesign, Lightroom, Substance 3D Painter, Substance 3D Designer, Substance 3D Sampler, MagicaVoxel, Spline, Blender, Houdini, Nuke, Unity, SpeedTree.
 
 ## PORTFOLIO
-[NOT PUBLIC YET](https://github.com/c4pslock)
+[Portfolio Website](https://www.annaozola.com/)
 
 ## FIND ME ON THE WEB
 
