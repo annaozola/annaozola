@@ -1,7 +1,7 @@
 Hi, I'm Anna, a multidisciplinary designer based in Riga, Latvia, specializing in **UI/UX design**.
 
 Open to UI/UX Designer, Product Designer, Design Engineer, and front-end leaning roles.
-Reach me via email or [LinkedIn](https://www.linkedin.com/in/annacgfx/).
+Reach me via email or [LinkedIn](https://www.linkedin.com/in/anna-ozola/).
 
 ### Featured work
 Portfolio: [annaozola.com](https://www.annaozola.com/)
